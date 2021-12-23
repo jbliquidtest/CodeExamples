@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="files.StreamsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-17T10:08:56" hostname="LAPTOP-5F6GAE60" time="0.132">
+  <properties/>
+  <testcase name="testReadNumberExtended" classname="files.StreamsTest" time="0.013"/>
+  <testcase name="testReadNumber" classname="files.StreamsTest" time="0.0"/>
+  <testcase name="testGetQuotedExtended" classname="files.StreamsTest" time="0.024"/>
+  <testcase name="testReadUntil" classname="files.StreamsTest" time="0.0"/>
+  <testcase name="testFilterOut" classname="files.StreamsTest" time="0.003"/>
+  <testcase name="testReadUntilExtended" classname="files.StreamsTest" time="0.07"/>
+  <testcase name="testFilterOutExtended" classname="files.StreamsTest" time="0.018"/>
+  <testcase name="testGetQuoted" classname="files.StreamsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
