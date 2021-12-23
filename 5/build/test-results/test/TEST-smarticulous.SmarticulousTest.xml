@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="smarticulous.SmarticulousTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-12-30T16:19:46" hostname="LAPTOP-5F6GAE60" time="2.16">
+  <properties/>
+  <testcase name="create_openDB" classname="smarticulous.SmarticulousTest" time="1.241"/>
+  <testcase name="submission_getLastSubmissionStatement" classname="smarticulous.SmarticulousTest" time="0.184"/>
+  <testcase name="exercise_loadExercises" classname="smarticulous.SmarticulousTest" time="0.09"/>
+  <testcase name="submission_getLastSubmissionStatement_withGetSubmission" classname="smarticulous.SmarticulousTest" time="0.099"/>
+  <testcase name="exercise_addExercise" classname="smarticulous.SmarticulousTest" time="0.056"/>
+  <testcase name="create_createTables" classname="smarticulous.SmarticulousTest" time="0.071"/>
+  <testcase name="user_addUser" classname="smarticulous.SmarticulousTest" time="0.057"/>
+  <testcase name="create_createNewDB" classname="smarticulous.SmarticulousTest" time="0.09"/>
+  <testcase name="user_verifyLogin" classname="smarticulous.SmarticulousTest" time="0.053"/>
+  <testcase name="user_updateUser" classname="smarticulous.SmarticulousTest" time="0.065"/>
+  <testcase name="submission_storeSubmission" classname="smarticulous.SmarticulousTest" time="0.051"/>
+  <testcase name="getBestSubmissionStatement" classname="smarticulous.SmarticulousTest" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

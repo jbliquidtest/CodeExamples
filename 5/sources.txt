@@ -1,0 +1,11 @@
+https://www.sqlitetutorial.net/sqlite-subquery/ 
+for subquery
+
+https://stackoverflow.com/questions/2127138/how-to-retrieve-the-last-autoincremented-id-from-a-sqlite-table
+how to get id of last insert
+
+https://sqlite.org/lang_upsert.html
+how to do one quert for insert \ update
+
+https://stackoverflow.com/questions/3331636/sqlite-multiple-table-inner-join-with-using-errors
+how using work in inner join tables
